@@ -12,7 +12,7 @@
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/yourusername/starscope.git
+https://github.com/kpatel59128/starscope.git
 cd starscope
 pip install flask
 python app.py
